@@ -1,3 +1,4 @@
+
 When would you want to use a remote repository rather than keeping all your work
 local?
 
@@ -27,3 +28,4 @@ When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
     Fill in your answer here
+>>>>>>> 122d6f9cead1e1a20bd5a13deaa16b7b0452454f
